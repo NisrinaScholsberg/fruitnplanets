@@ -1,0 +1,43 @@
+.my-class {
+	background-color: darkgrey;
+	color: white;
+	border: 5px solid lightblue;
+	text-align: center;
+	padding: 0.5em;
+	
+	}
+
+.my-container{
+	background-color: black;
+	opacity: 0.8;
+	color: white;
+	text-align: left;
+	padding-bottom: 0.3em;
+	border: 5px solid #D086F1
+	
+	
+	}
+
+h2{
+	text-decoration: underline;
+}
+
+#first-item{
+	background-color: lightgray;
+	opacity: 0.8;
+	color: black; 
+	text-align: left;
+	border: 5px solid black;
+	padding-bottom: 0.3em
+	
+}
+
+.my-can {
+	background-color: darkseagreen;
+	opacity: 0.8;
+	color: white;
+	text-align: left;
+	border: 5px solid lightgreen;
+	padding-bottom: 0.3em
+}
+
