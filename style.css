@@ -34,6 +34,13 @@ h2{
 	
 }
 
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	
+		
+}
+
 .my-can {
 	background-color: darkseagreen;
 	opacity: 0.8;
@@ -43,3 +50,7 @@ h2{
 	padding-bottom: 0.3em
 }
 
+.my-class {
+}
+.center {
+}
